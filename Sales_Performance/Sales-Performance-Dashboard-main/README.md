@@ -351,10 +351,9 @@ This project was created as part of a **Data Analytics learning journey** using 
 
 ## 📎 Author  
 
-**👤 Name:** Prafull Wahatule  
-**📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
-**💻 GitHub:** [prafullwahatule](https://github.com/prafullwahatule)  
+**👤 Name:** Prasanna  
+**💻 GitHub:** [prasanna-882](https://github.com/prasanna-882)  
 
 ---
 
-⭐ *If you found this project helpful, don’t forget to star the repository!* ⭐
+
